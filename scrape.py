@@ -138,7 +138,6 @@ def vector_embedding():
     except Exception as e:
         print(f"❌ Error in Vector Embedding: {e}")
 
-
     except Exception as e:
         print(f"Error in vector embedding: {e}")
 
