@@ -8,6 +8,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+      contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -31,13 +34,14 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: python scrape.py
 
-      - name: Configure Git Credentials
+      - name: Set up Git Config
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/jacklinsibiyal/webscraping.git
-      
+         
       - name: Push Changes
+        env:
+            GITHUB_TOKEN: ${{ github.token }}
         run: |
           git add .
           git commit -m "Automated update of scraped data at midnight IST"
