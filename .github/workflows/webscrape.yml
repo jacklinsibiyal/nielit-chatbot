@@ -26,12 +26,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Set Environment Variables
+      - name: Run Web Scraper
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        run: echo "GOOGLE_API_KEY is set"
-
-      - name: Run Web Scraper
         run: python scrape.py
 
       - name: Commit and Push Output
