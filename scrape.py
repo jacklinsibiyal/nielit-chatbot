@@ -7,7 +7,6 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from urllib.parse import urljoin
 from webdriver_manager.chrome import ChromeDriverManager
 import re
-from fpdf import FPDF
 import pdfplumber
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
