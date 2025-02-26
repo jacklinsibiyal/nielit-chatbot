@@ -21,8 +21,10 @@ options.add_argument("--disable-gpu")
 options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 
-load_dotenv()
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
+if not os.getenv("GOOGLE_API_KEY"):
+    load_dotenv()
+google_api_key = os.getenv("GOOGLE_API_KEY")
 url = 'https://nva.nielit.gov.in/'
 
 os.makedirs('doc', exist_ok=True)
