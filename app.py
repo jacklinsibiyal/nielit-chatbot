@@ -75,15 +75,6 @@ if prompt1:
         response_time = time.process_time() - start
     st.markdown(f"**⏱️ Response Time:** {response_time} seconds")
     st.markdown(f"**🤖 NIELIT AI:** {response['answer']}")
-    st.session_state.memory.chat_memory.add_user_message(prompt1)
-    st.session_state.memory.chat_memory.add_ai_message(response['answer'])
-
-    with st.expander("💬 Chat History"):
-        for msg in st.session_state.memory.chat_memory.messages:
-            if msg.type == "human":
-                st.markdown(f"**You:** {msg.content}")
-            else:
-                st.markdown(f"**NIELIT AI:** {msg.content}")
 
     with st.expander("📄 Document Similarity Search"):
         for i, doc in enumerate(response["context"]):
