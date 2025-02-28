@@ -13,6 +13,11 @@ from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
+import shutil
+
+for dir in ['doc', 'vector_store']:
+     if os.path.exists(dir):
+         shutil.rmtree(dir, ignore_errors=True)
 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')  
@@ -26,12 +31,6 @@ if not os.getenv("GOOGLE_API_KEY"):
     load_dotenv()
 google_api_key = os.getenv("GOOGLE_API_KEY")
 url = 'https://nva.nielit.gov.in/'
-
-if os.path.exists('doc'):
-    os.rmdir('doc')
-
-if os.path.exists('vector_store'):
-    os.rmdir('vector_store')
 
 os.makedirs('doc', exist_ok=True)
 os.makedirs('vector_store', exist_ok=True)
