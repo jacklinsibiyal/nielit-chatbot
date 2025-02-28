@@ -11,12 +11,12 @@ CCC E-Content
 LMS Log In
 LMS Log In
 Student Login
-17432Registered Candidates(As on 28.Feb.2025 )3743Certified Candidates(As on 28.Feb.2025 )
-17432Registered Candidates(As on 28.Feb.2025 )3743Certified Candidates(As on 28.Feb.2025 )
-17432Registered Candidates(As on 28.Feb.2025 )
-17432Registered Candidates(As on 28.Feb.2025 )
-17432Registered Candidates(As on 28.Feb.2025 )
-17432
+17446Registered Candidates(As on 28.Feb.2025 )3743Certified Candidates(As on 28.Feb.2025 )
+17446Registered Candidates(As on 28.Feb.2025 )3743Certified Candidates(As on 28.Feb.2025 )
+17446Registered Candidates(As on 28.Feb.2025 )
+17446Registered Candidates(As on 28.Feb.2025 )
+17446Registered Candidates(As on 28.Feb.2025 )
+17446
 Registered Candidates(As on 28.Feb.2025 )
 3743Certified Candidates(As on 28.Feb.2025 )
 3743Certified Candidates(As on 28.Feb.2025 )
@@ -193,9 +193,9 @@ contact.nva@nielit.gov.in
 NIELIT HQNIELIT Bhawan, Plot No.3, PSP Pocket, Sector-8,Dwarka, New Delhi-110077,
 NIELIT HQ
 NIELIT Bhawan, Plot No.3, PSP Pocket, Sector-8,Dwarka, New Delhi-110077,
-Copyright@NIELIT VIRTUAL ACADEMY(NVA)| all rights are reserved!VISITOR COUNT -1451259
+Copyright@NIELIT VIRTUAL ACADEMY(NVA)| all rights are reserved!VISITOR COUNT -1452104
 NIELIT VIRTUAL ACADEMY(NVA)
-1451259
+1452104
 Student LoginLoginForgot PasswordClose
 Student LoginLoginForgot PasswordClose
 Student LoginLoginForgot PasswordClose
