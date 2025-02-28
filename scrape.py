@@ -13,11 +13,6 @@ from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
-import shutil
-
-for dir in ['doc', 'vector_store']:
-     if os.path.exists(dir):
-         shutil.rmtree(dir, ignore_errors=True)
 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')  
