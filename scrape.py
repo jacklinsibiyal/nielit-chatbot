@@ -27,6 +27,12 @@ if not os.getenv("GOOGLE_API_KEY"):
 google_api_key = os.getenv("GOOGLE_API_KEY")
 url = 'https://nva.nielit.gov.in/'
 
+if os.path.exists('doc'):
+    os.rmdir('doc')
+
+if os.path.exists('vector_store'):
+    os.rmdir('vector_store')
+
 os.makedirs('doc', exist_ok=True)
 os.makedirs('vector_store', exist_ok=True)
 
