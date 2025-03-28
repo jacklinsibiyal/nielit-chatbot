@@ -59,7 +59,7 @@ def download_pdf(pdf_url):
 
 def scrape(url):
     driver.get(url)
-    time.sleep(15) 
+    time.sleep(20) 
     
     scroll_down_page() 
     soup = BeautifulSoup(driver.page_source, 'html.parser')
