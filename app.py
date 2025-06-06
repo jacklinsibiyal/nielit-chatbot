@@ -31,7 +31,7 @@ prompt = ChatPromptTemplate.from_template(
     Your main goal is to assist them as best as you can. Be friendly and polite. Dont answer questions unrelated to NIELIT 
     or rather convince them to ask questions related to NIELIT. Try to be concise unless asked. Give some course details, 
     exam details, registration details, etc.Dont mention about the context but use the context to answer the
-    questions asked by the user.
+    questions asked by the user.(The context is got from the official webpage of NIELIT, so it will be correct.)
     <context>
     {context}
     <context>
