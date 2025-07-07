@@ -11,18 +11,18 @@ CCC E-Content
 LMS Log In
 LMS Log In
 Student Login
-22145Registered Candidates(As on 06.Jul.2025 )3920Certified Candidates(As on 06.Jul.2025 )
-22145Registered Candidates(As on 06.Jul.2025 )3920Certified Candidates(As on 06.Jul.2025 )
-22145Registered Candidates(As on 06.Jul.2025 )
-22145Registered Candidates(As on 06.Jul.2025 )
-22145Registered Candidates(As on 06.Jul.2025 )
-22145
-Registered Candidates(As on 06.Jul.2025 )
-3920Certified Candidates(As on 06.Jul.2025 )
-3920Certified Candidates(As on 06.Jul.2025 )
-3920Certified Candidates(As on 06.Jul.2025 )
+22206Registered Candidates(As on 07.Jul.2025 )3920Certified Candidates(As on 07.Jul.2025 )
+22206Registered Candidates(As on 07.Jul.2025 )3920Certified Candidates(As on 07.Jul.2025 )
+22206Registered Candidates(As on 07.Jul.2025 )
+22206Registered Candidates(As on 07.Jul.2025 )
+22206Registered Candidates(As on 07.Jul.2025 )
+22206
+Registered Candidates(As on 07.Jul.2025 )
+3920Certified Candidates(As on 07.Jul.2025 )
+3920Certified Candidates(As on 07.Jul.2025 )
+3920Certified Candidates(As on 07.Jul.2025 )
 3920
-Certified Candidates(As on 06.Jul.2025 )
+Certified Candidates(As on 07.Jul.2025 )
 Why Choose UsNational Institute of Electronics and Information Technology(NIELIT) has established itself as a premier institution providing affordable quality education as per the job market requirements for candidates from all over India.NIELIT Virtual Academy is launched to broaden the reach of NIELIT among the target audience cross the length and breadth of the country overcoming the urban-rural divide. It provides a platform for affordable anytime anywhere learning delivered through modern digital technologies.Coursesare available in self paced mode(24 X 7) from anywhere with doubt removal session...Interested may apply....
 Why Choose UsNational Institute of Electronics and Information Technology(NIELIT) has established itself as a premier institution providing affordable quality education as per the job market requirements for candidates from all over India.NIELIT Virtual Academy is launched to broaden the reach of NIELIT among the target audience cross the length and breadth of the country overcoming the urban-rural divide. It provides a platform for affordable anytime anywhere learning delivered through modern digital technologies.
 Why Choose Us
@@ -231,9 +231,9 @@ contact.nva@nielit.gov.in
 NIELIT HQNIELIT Bhawan, Plot No.3, PSP Pocket, Sector-8,Dwarka, New Delhi-110077,
 NIELIT HQ
 NIELIT Bhawan, Plot No.3, PSP Pocket, Sector-8,Dwarka, New Delhi-110077,
-Copyright@NIELIT VIRTUAL ACADEMY(NVA)| all rights are reserved!VISITOR COUNT -2038836
+Copyright@NIELIT VIRTUAL ACADEMY(NVA)| all rights are reserved!VISITOR COUNT -2041875
 NIELIT VIRTUAL ACADEMY(NVA)
-2038836
+2041875
 Student LoginLoginForgot PasswordClose
 Student LoginLoginForgot PasswordClose
 Student LoginLoginForgot PasswordClose
