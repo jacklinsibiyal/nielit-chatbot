@@ -1,4 +1,3 @@
-import asyncio
 import streamlit as st
 from langchain_groq import ChatGroq
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -10,16 +9,16 @@ from dotenv import load_dotenv
 from langchain.memory import ConversationBufferMemory
 import os
 import time
+import asyncio
 
-# Load .env
-load_dotenv()
-
-# Ensure asyncio event loop exists (prevents "no current event loop in thread" for gRPC clients)
+# ✅ Ensure event loop exists
 try:
     asyncio.get_running_loop()
 except RuntimeError:
     asyncio.set_event_loop(asyncio.new_event_loop())
 
+# Load environment variables
+load_dotenv()
 groq_api_key = os.getenv('GROQ_API_KEY')
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
@@ -27,11 +26,16 @@ st.set_page_config(page_title="NIELIT Chatbot", page_icon="🤖", layout="wide")
 st.title("🤖 NIELIT Chatbot")
 st.markdown("---")
 
+# ✅ Create embeddings ONCE (outside cached function)
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+
+# Load LLM
 llm = ChatGroq(
     groq_api_key=groq_api_key,
     model_name="meta-llama/llama-4-maverick-17b-128e-instruct"
 )
 
+# Prompt template
 prompt = ChatPromptTemplate.from_template(
     """
     You are NIELIT AI, you help people with their queries regarding courses on NIELIT
@@ -47,46 +51,29 @@ prompt = ChatPromptTemplate.from_template(
     """
 )
 
-# Create the embeddings object once (outside the cached resource) after ensuring event loop exists.
-if "embeddings" not in st.session_state:
-    try:
-        st.session_state.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
-    except Exception as e:
-        # Provide a helpful error in the UI if embeddings init fails
-        st.error(f"⚠️ Failed to initialize embeddings: {e}")
-        st.stop()
-
-# Cached resource to load vector store from disk (this should not re-create embeddings)
+# Function to load vector store
 @st.cache_resource
-def load_vector_store_cached():
+def load_vector_store():
     vector_store_path = "./vector_store/faiss_index"
-    # Check for FAISS files presence
-    index_pkl = os.path.join(vector_store_path, "index.pkl")
-    index_faiss = os.path.join(vector_store_path, "index.faiss")
-
-    if os.path.exists(index_pkl) and os.path.exists(index_faiss):
-        try:
-            # Use embeddings already created in session_state
-            vectors = FAISS.load_local(vector_store_path, st.session_state.embeddings, allow_dangerous_deserialization=True)
-            return vectors
-        except Exception as e:
-            # If loading fails, return None and show error upstream
-            st.error(f"⚠️ Failed to load FAISS vector store: {e}")
-            return None
+    if os.path.exists(f"{vector_store_path}/index.pkl") and os.path.exists(f"{vector_store_path}/index.faiss"):
+        vectors = FAISS.load_local(
+            vector_store_path,
+            embeddings,
+            allow_dangerous_deserialization=True
+        )
+        return vectors
     else:
-        st.error("⚠️ Vector store files not found! Ensure index.pkl and index.faiss are in ./vector_store/faiss_index")
+        st.error("⚠️ Vector store files not found! Ensure index.pkl and index.faiss are in the specified folder.")
         return None
 
-# Load vector store into session state (only if not already loaded)
+# Load vector store into session state
 if "vectors" not in st.session_state:
     with st.spinner("🚀 Loading Vector Store..."):
-        st.session_state.vectors = load_vector_store_cached()
+        st.session_state.vectors = load_vector_store()
     if st.session_state.vectors:
         st.success("✅ Vector Store Loaded!")
-    else:
-        # stop further execution if vectors couldn't be loaded
-        st.stop()
 
+# User input
 prompt1 = st.text_input("💬 Enter Your Question")
 
 if prompt1:
@@ -107,9 +94,9 @@ if prompt1:
         response_time = time.process_time() - start
 
     st.markdown(f"**⏱️ Response Time:** {response_time} seconds")
-    st.markdown(f"**🤖 NIELIT AI:** {response.get('answer', 'No answer returned.')}")
+    st.markdown(f"**🤖 NIELIT AI:** {response['answer']}")
 
     with st.expander("📄 Document Similarity Search"):
-        for i, doc in enumerate(response.get("context", [])):
+        for i, doc in enumerate(response["context"]):
             st.markdown(doc.page_content)
             st.markdown("---")
