@@ -11,18 +11,18 @@ CCC E-Content
 LMS Log In
 LMS Log In
 Student Login
-24478Registered Candidates(As on 10.Aug.2025 )4020Certified Candidates(As on 10.Aug.2025 )
-24478Registered Candidates(As on 10.Aug.2025 )4020Certified Candidates(As on 10.Aug.2025 )
-24478Registered Candidates(As on 10.Aug.2025 )
-24478Registered Candidates(As on 10.Aug.2025 )
-24478Registered Candidates(As on 10.Aug.2025 )
-24478
-Registered Candidates(As on 10.Aug.2025 )
-4020Certified Candidates(As on 10.Aug.2025 )
-4020Certified Candidates(As on 10.Aug.2025 )
-4020Certified Candidates(As on 10.Aug.2025 )
-4020
-Certified Candidates(As on 10.Aug.2025 )
+24548Registered Candidates(As on 11.Aug.2025 )4029Certified Candidates(As on 11.Aug.2025 )
+24548Registered Candidates(As on 11.Aug.2025 )4029Certified Candidates(As on 11.Aug.2025 )
+24548Registered Candidates(As on 11.Aug.2025 )
+24548Registered Candidates(As on 11.Aug.2025 )
+24548Registered Candidates(As on 11.Aug.2025 )
+24548
+Registered Candidates(As on 11.Aug.2025 )
+4029Certified Candidates(As on 11.Aug.2025 )
+4029Certified Candidates(As on 11.Aug.2025 )
+4029Certified Candidates(As on 11.Aug.2025 )
+4029
+Certified Candidates(As on 11.Aug.2025 )
 Why Choose UsNational Institute of Electronics and Information Technology(NIELIT) has established itself as a premier institution providing affordable quality education as per the job market requirements for candidates from all over India.NIELIT Virtual Academy is launched to broaden the reach of NIELIT among the target audience cross the length and breadth of the country overcoming the urban-rural divide. It provides a platform for affordable anytime anywhere learning delivered through modern digital technologies.Coursesare available in self paced mode(24 X 7) from anywhere with doubt removal session...Interested may apply....
 Why Choose UsNational Institute of Electronics and Information Technology(NIELIT) has established itself as a premier institution providing affordable quality education as per the job market requirements for candidates from all over India.NIELIT Virtual Academy is launched to broaden the reach of NIELIT among the target audience cross the length and breadth of the country overcoming the urban-rural divide. It provides a platform for affordable anytime anywhere learning delivered through modern digital technologies.
 Why Choose Us
@@ -34,7 +34,7 @@ OUR COURSES...
 Click here to Search Courses
 Click here to Search Courses
 Click here to Search Courses
-Rs. 600Duration - 30 Hrs.Self pacedCertificate Course in Front-End Development (Self-Paced)Click Here to See DetailApplyRs. 600Duration - 30 Hrs.Self pacedCertificate Course in Artificial Intelligence and Machine Learning using PythonClick Here to See DetailApplyRs. 600Duration - 30 Hrs.Self pacedCertificate Course in Structured Query Language using MySQLClick Here to See DetailApplyFreeDuration - 2 Hrs.Self pacedIntroduction to PythonClick Here to See DetailApplyRs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M4-(Internet of Things and its Applications)-(Self Paced)Click Here to See DetailApplyRs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Click Here to See DetailApplyRs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level-M2-(Web Designing and Publishing)-(Self Paced)Click Here to See DetailApplyRs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Click Here to See DetailApplyRs. 600Duration - 60 Hrs.Self pacedCertificate Course in Basic Python[Self-Paced]Click Here to See DetailApplyRs. 600Duration - 30 Hrs.Self pacedCertificate Course in React-JSClick Here to See DetailApplyFreeDuration - 2 Hrs.Self pacedIntroduction to Generative AIClick Here to See DetailApplyFreeDuration - 2 Hrs.Self pacedIntroduction to Agentic AIClick Here to See DetailApplyFreeDuration - 2 Hrs.Self pacedIntroduction to IoT Data AnalystClick Here to See DetailApplyFreeDuration - 2 Hrs.Self pacedIntroduction to NoSQLClick Here to See DetailApplyRs. 38500Duration - 960 Hrs.Last Date of Registration :13-Aug-2025Course Start Date:18-Aug-2025PG Program in Data EngineeringClick Here to See DetailApplyRs. 38200Duration - 840 Hrs.Last Date of Registration :22-Aug-2025Course Start Date:27-Aug-2025Certified Cloud Computing EngineerClick Here to See DetailApplyRs. 26000Duration - 570 Hrs.Last Date of Registration :31-Aug-2025Course Start Date:04-Sep-2025Artificial Intelligence Development AssociateClick Here to See DetailApplyRs. 14200Duration - 300 Hrs.Last Date of Registration :08-Sep-2025Course Start Date:10-Sep-2025Cyber Security AssistantClick Here to See DetailApplyRs. 24800Duration - 540 Hrs.Last Date of Registration :08-Sep-2025Course Start Date:10-Sep-2025Cloud Computing AssociateClick Here to See DetailApplyRs. 14200Duration - 300 Hrs.Last Date of Registration :08-Sep-2025Course Start Date:10-Sep-2025Cloud Computing AssistantClick Here to See DetailApplyRs. 24800Duration - 540 Hrs.Last Date of Registration :08-Sep-2025Course Start Date:10-Sep-2025Cyber Security AssociateClick Here to See DetailApply
+Rs. 600Duration - 30 Hrs.Self pacedCertificate Course in Front-End Development (Self-Paced)Click Here to See DetailApplyRs. 600Duration - 30 Hrs.Self pacedCertificate Course in Artificial Intelligence and Machine Learning using PythonClick Here to See DetailApplyRs. 600Duration - 30 Hrs.Self pacedCertificate Course in Structured Query Language using MySQLClick Here to See DetailApplyFreeDuration - 2 Hrs.Self pacedIntroduction to PythonClick Here to See DetailApplyRs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Click Here to See DetailApplyRs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level-M2-(Web Designing and Publishing)-(Self Paced)Click Here to See DetailApplyRs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Click Here to See DetailApplyRs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M4-(Internet of Things and its Applications)-(Self Paced)Click Here to See DetailApplyRs. 600Duration - 60 Hrs.Self pacedCertificate Course in Basic Python[Self-Paced]Click Here to See DetailApplyRs. 600Duration - 30 Hrs.Self pacedCertificate Course in React-JSClick Here to See DetailApplyFreeDuration - 2 Hrs.Self pacedIntroduction to Generative AIClick Here to See DetailApplyRs. 59Duration - 2 Hrs.Self pacedIntroduction to Agentic AIClick Here to See DetailApplyRs. 59Duration - 2 Hrs.Self pacedIntroduction to IoT Data AnalystClick Here to See DetailApplyRs. 59Duration - 2 Hrs.Self pacedIntroduction to NoSQLClick Here to See DetailApplyRs. 38500Duration - 960 Hrs.Last Date of Registration :13-Aug-2025Course Start Date:18-Aug-2025PG Program in Data EngineeringClick Here to See DetailApplyRs. 38200Duration - 840 Hrs.Last Date of Registration :22-Aug-2025Course Start Date:27-Aug-2025Certified Cloud Computing EngineerClick Here to See DetailApplyRs. 26000Duration - 570 Hrs.Last Date of Registration :31-Aug-2025Course Start Date:04-Sep-2025Artificial Intelligence Development AssociateClick Here to See DetailApplyRs. 14200Duration - 300 Hrs.Last Date of Registration :08-Sep-2025Course Start Date:10-Sep-2025Cyber Security AssistantClick Here to See DetailApplyRs. 24800Duration - 540 Hrs.Last Date of Registration :08-Sep-2025Course Start Date:10-Sep-2025Cloud Computing AssociateClick Here to See DetailApplyRs. 14200Duration - 300 Hrs.Last Date of Registration :08-Sep-2025Course Start Date:10-Sep-2025Cloud Computing AssistantClick Here to See DetailApplyRs. 24800Duration - 540 Hrs.Last Date of Registration :08-Sep-2025Course Start Date:10-Sep-2025Cyber Security AssociateClick Here to See DetailApplyRs. 24500Duration - 450 Hrs.Last Date of Registration :22-Sep-2025Course Start Date:24-Sep-2025Chip Design Associate (O-Level ‘Chip Design’)Click Here to See DetailApply
 Rs. 600Duration - 30 Hrs.Self pacedCertificate Course in Front-End Development (Self-Paced)Click Here to See DetailApply
 Rs. 600Duration - 30 Hrs.Self pacedCertificate Course in Front-End Development (Self-Paced)Click Here to See DetailApply
 Rs. 600Duration - 30 Hrs.Self pacedCertificate Course in Front-End Development (Self-Paced)Click Here to See DetailApply
@@ -72,16 +72,6 @@ Introduction to Python
 Click Here to See Detail
 Click Here to See Detail
 Apply
-Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M4-(Internet of Things and its Applications)-(Self Paced)Click Here to See DetailApply
-Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M4-(Internet of Things and its Applications)-(Self Paced)Click Here to See DetailApply
-Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M4-(Internet of Things and its Applications)-(Self Paced)Click Here to See DetailApply
-Duration - 120 Hrs.
-Last Date of Registration :31-Dec-2024
-Course Start Date:13-Aug-2024
-O Level- M4-(Internet of Things and its Applications)-(Self Paced)
-Click Here to See Detail
-Click Here to See Detail
-Apply
 Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Click Here to See DetailApply
 Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Click Here to See DetailApply
 Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Click Here to See DetailApply
@@ -109,6 +99,16 @@ Duration - 120 Hrs.
 Last Date of Registration :31-Dec-2024
 Course Start Date:13-Aug-2024
 O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)
+Click Here to See Detail
+Click Here to See Detail
+Apply
+Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M4-(Internet of Things and its Applications)-(Self Paced)Click Here to See DetailApply
+Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M4-(Internet of Things and its Applications)-(Self Paced)Click Here to See DetailApply
+Rs. 590Duration - 120 Hrs.Last Date of Registration :31-Dec-2024Course Start Date:13-Aug-2024O Level- M4-(Internet of Things and its Applications)-(Self Paced)Click Here to See DetailApply
+Duration - 120 Hrs.
+Last Date of Registration :31-Dec-2024
+Course Start Date:13-Aug-2024
+O Level- M4-(Internet of Things and its Applications)-(Self Paced)
 Click Here to See Detail
 Click Here to See Detail
 Apply
@@ -140,30 +140,27 @@ Introduction to Generative AI
 Click Here to See Detail
 Click Here to See Detail
 Apply
-FreeDuration - 2 Hrs.Self pacedIntroduction to Agentic AIClick Here to See DetailApply
-FreeDuration - 2 Hrs.Self pacedIntroduction to Agentic AIClick Here to See DetailApply
-FreeDuration - 2 Hrs.Self pacedIntroduction to Agentic AIClick Here to See DetailApply
-Free
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to Agentic AIClick Here to See DetailApply
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to Agentic AIClick Here to See DetailApply
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to Agentic AIClick Here to See DetailApply
 Duration - 2 Hrs.
 Self paced
 Introduction to Agentic AI
 Click Here to See Detail
 Click Here to See Detail
 Apply
-FreeDuration - 2 Hrs.Self pacedIntroduction to IoT Data AnalystClick Here to See DetailApply
-FreeDuration - 2 Hrs.Self pacedIntroduction to IoT Data AnalystClick Here to See DetailApply
-FreeDuration - 2 Hrs.Self pacedIntroduction to IoT Data AnalystClick Here to See DetailApply
-Free
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to IoT Data AnalystClick Here to See DetailApply
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to IoT Data AnalystClick Here to See DetailApply
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to IoT Data AnalystClick Here to See DetailApply
 Duration - 2 Hrs.
 Self paced
 Introduction to IoT Data Analyst
 Click Here to See Detail
 Click Here to See Detail
 Apply
-FreeDuration - 2 Hrs.Self pacedIntroduction to NoSQLClick Here to See DetailApply
-FreeDuration - 2 Hrs.Self pacedIntroduction to NoSQLClick Here to See DetailApply
-FreeDuration - 2 Hrs.Self pacedIntroduction to NoSQLClick Here to See DetailApply
-Free
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to NoSQLClick Here to See DetailApply
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to NoSQLClick Here to See DetailApply
+Rs. 59Duration - 2 Hrs.Self pacedIntroduction to NoSQLClick Here to See DetailApply
 Duration - 2 Hrs.
 Self paced
 Introduction to NoSQL
@@ -240,6 +237,16 @@ Cyber Security Associate
 Click Here to See Detail
 Click Here to See Detail
 Apply
+Rs. 24500Duration - 450 Hrs.Last Date of Registration :22-Sep-2025Course Start Date:24-Sep-2025Chip Design Associate (O-Level ‘Chip Design’)Click Here to See DetailApply
+Rs. 24500Duration - 450 Hrs.Last Date of Registration :22-Sep-2025Course Start Date:24-Sep-2025Chip Design Associate (O-Level ‘Chip Design’)Click Here to See DetailApply
+Rs. 24500Duration - 450 Hrs.Last Date of Registration :22-Sep-2025Course Start Date:24-Sep-2025Chip Design Associate (O-Level ‘Chip Design’)Click Here to See DetailApply
+Duration - 450 Hrs.
+Last Date of Registration :22-Sep-2025
+Course Start Date:24-Sep-2025
+Chip Design Associate (O-Level ‘Chip Design’)
+Click Here to See Detail
+Click Here to See Detail
+Apply
 our students review
 I am happy to say that I'm placed in Ernet India as a project engineer, and it happens because of NIELIT Chennai from where I have successfully completed Certified Embedded Software Engineer Program in online mode. It was such a wonderful opportunity to be a part of this program conducted by such great faculties, and in terms of online mode there is an availability of recorded session in their portal, and it's very much helpful in my presentation for interviews, and it's a completely industry related course. So we will get more confidence to face the technical interviews, Thanks to NIELIT Chennai for the great support for my successful future.Ajith R LNIELIT Chennai has various skill development courses, so according to my past experiences and to boost my career in the embedded domain I took the Certified Embedded Software Engineer Course. With these classes I have gained knowledge about the importance and application of electronics with software in this era. I thank each and every staff members and coordinators and the management for providing me with good support throughout the course period.Akash GaikwadI would really like to thank NIELIT Chennai, faculties for their invaluable support and guidance throughout the coursework. Their mentorship not only helped me clear the interview but also enhanced my overall professional development. I am fortunate to have had someone as knowledgeable and supportive as them by my side during this process. The knowledge, skills, and practical experience I gained during the training program were instrumental in preparing me for the challenges of the professional world. The Certified Embedded Software Engineer Course provides through knowledge in the feild of IoT and Automation. Their dedication and commitment made a significant difference in helping me secure a position which aligned with my career goals.Gaurav KumarI really like to thank NIELIT, faculties and all others for their constant support in successfully completing the course and getting placed as Data Analyst in one of the leading organisation.DivyaPG program in Data Science and Analytics had excellent content and assignments that build on your knowledge, reinforce and then expand, the mentoring approach was good and working with other people via the internet was good. The instructors did a good job of communicating and making it a more intimate arrangement.Tripti Singh
 I am happy to say that I'm placed in Ernet India as a project engineer, and it happens because of NIELIT Chennai from where I have successfully completed Certified Embedded Software Engineer Program in online mode. It was such a wonderful opportunity to be a part of this program conducted by such great faculties, and in terms of online mode there is an availability of recorded session in their portal, and it's very much helpful in my presentation for interviews, and it's a completely industry related course. So we will get more confidence to face the technical interviews, Thanks to NIELIT Chennai for the great support for my successful future.Ajith R LNIELIT Chennai has various skill development courses, so according to my past experiences and to boost my career in the embedded domain I took the Certified Embedded Software Engineer Course. With these classes I have gained knowledge about the importance and application of electronics with software in this era. I thank each and every staff members and coordinators and the management for providing me with good support throughout the course period.Akash GaikwadI would really like to thank NIELIT Chennai, faculties for their invaluable support and guidance throughout the coursework. Their mentorship not only helped me clear the interview but also enhanced my overall professional development. I am fortunate to have had someone as knowledgeable and supportive as them by my side during this process. The knowledge, skills, and practical experience I gained during the training program were instrumental in preparing me for the challenges of the professional world. The Certified Embedded Software Engineer Course provides through knowledge in the feild of IoT and Automation. Their dedication and commitment made a significant difference in helping me secure a position which aligned with my career goals.Gaurav KumarI really like to thank NIELIT, faculties and all others for their constant support in successfully completing the course and getting placed as Data Analyst in one of the leading organisation.DivyaPG program in Data Science and Analytics had excellent content and assignments that build on your knowledge, reinforce and then expand, the mentoring approach was good and working with other people via the internet was good. The instructors did a good job of communicating and making it a more intimate arrangement.Tripti Singh
@@ -281,9 +288,9 @@ contact.nva@nielit.gov.in
 NIELIT HQNIELIT Bhawan, Plot No.3, PSP Pocket, Sector-8,Dwarka, New Delhi-110077,
 NIELIT HQ
 NIELIT Bhawan, Plot No.3, PSP Pocket, Sector-8,Dwarka, New Delhi-110077,
-Copyright@NIELIT VIRTUAL ACADEMY(NVA)| all rights are reserved!VISITOR COUNT -2144882
+Copyright@NIELIT VIRTUAL ACADEMY(NVA)| all rights are reserved!VISITOR COUNT -2149544
 NIELIT VIRTUAL ACADEMY(NVA)
-2144882
+2149544
 Student LoginLoginForgot PasswordClose
 Student LoginLoginForgot PasswordClose
 Student LoginLoginForgot PasswordClose
