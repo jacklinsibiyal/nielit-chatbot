@@ -18,3 +18,5 @@ langchain-text-splitters
 pdfplumber
 langchain-core
 langchain-classic
+sentence-transformers
+torch
