@@ -16,3 +16,4 @@ webdriver-manager
 requests
 langchain-text-splitters
 pdfplumber
+langchain-core
