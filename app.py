@@ -4,7 +4,7 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain_community.vectorstores import FAISS
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from dotenv import load_dotenv
 from langchain.memory import ConversationBufferMemory
 import os
@@ -20,14 +20,15 @@ except RuntimeError:
 # Load environment variables
 load_dotenv()
 groq_api_key = os.getenv('GROQ_API_KEY')
-os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
 st.set_page_config(page_title="NIELIT Chatbot", page_icon="🤖", layout="wide")
 st.title("🤖 NIELIT Chatbot")
 st.markdown("---")
 
 # ✅ Create embeddings ONCE (outside cached function)
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+embeddings = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
 
 # Load LLM
 llm = ChatGroq(
@@ -100,3 +101,4 @@ if prompt1:
         for i, doc in enumerate(response["context"]):
             st.markdown(doc.page_content)
             st.markdown("---")
+
