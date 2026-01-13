@@ -1,6 +1,6 @@
 import streamlit as st
 from langchain_groq import ChatGroq
-from langchain.chains.combine_documents import create_stuff_documents_chain
+from langchain_classic.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain_community.vectorstores import FAISS
@@ -100,3 +100,4 @@ if prompt1:
         for i, doc in enumerate(response["context"]):
             st.markdown(doc.page_content)
             st.markdown("---")
+
