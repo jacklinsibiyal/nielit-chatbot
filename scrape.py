@@ -11,7 +11,7 @@ import pdfplumber
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain.docstore.document import Document
+from langchain_core.documents import Document
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 options = webdriver.ChromeOptions()
@@ -145,4 +145,5 @@ scrape(url)
 vector_embedding()
 driver.quit()
 print("Scraping and Vector Embedding completed.")
+
 
