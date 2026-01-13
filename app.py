@@ -2,7 +2,7 @@ import streamlit as st
 from langchain_groq import ChatGroq
 from langchain_classic.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
-from langchain.chains import create_retrieval_chain
+from langchain.chains.retrieval import create_retrieval_chain
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from dotenv import load_dotenv
@@ -202,3 +202,4 @@ if user_input := st.chat_input("Ask about NIELIT courses, exams, etc..."):
                     st.error(f"An error occurred: {str(e)}")
     else:
         st.error("Vector Store is not loaded. Cannot process query.")
+
