@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')  
@@ -21,10 +21,6 @@ options.add_argument("--disable-gpu")
 options.add_argument('--disable-dev-shm-usage')
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 
-os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
-if not os.getenv("GOOGLE_API_KEY"):
-    load_dotenv()
-google_api_key = os.getenv("GOOGLE_API_KEY")
 url = 'https://nva.nielit.gov.in/'
 
 os.makedirs('doc', exist_ok=True)
@@ -106,7 +102,9 @@ def vector_embedding():
     try:
         print("🚀 Starting Vector Embedding Process...")
 
-        embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+        embeddings = HuggingFaceEmbeddings(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
         docs = []
 
         pdf_files = os.listdir("./doc")
@@ -129,7 +127,7 @@ def vector_embedding():
             else:
                 print(f"⚠️ No text extracted from: {file}")
 
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=2000, chunk_overlap=200)
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
         final_documents = text_splitter.split_documents(docs)
         vectors = FAISS.from_documents(final_documents, embeddings)
         vectors.save_local("vector_store/faiss_index")
@@ -145,5 +143,6 @@ scrape(url)
 vector_embedding()
 driver.quit()
 print("Scraping and Vector Embedding completed.")
+
 
 
