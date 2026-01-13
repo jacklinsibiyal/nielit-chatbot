@@ -10,7 +10,7 @@ import re
 import pdfplumber
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
@@ -145,3 +145,4 @@ scrape(url)
 vector_embedding()
 driver.quit()
 print("Scraping and Vector Embedding completed.")
+
