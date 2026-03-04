@@ -51,38 +51,73 @@ Loading CAPTCHA...
 Loading CAPTCHA...
 Already Registered? Login Here.
 Close
-Forgot passwordEmailDate of BirthReset
-                                PasswordClose
-Forgot passwordEmailDate of BirthReset
-                                PasswordClose
-Forgot passwordEmailDate of BirthReset
-                                PasswordClose
-Forgot password
-Forgot password
-EmailDate of BirthReset
-                                Password
+Forgot PasswordEmailDate of BirthPhone NumberValidatePassword Requirements:• Minimum 8 characters• Must include: Uppercase (A-Z), Lowercase (a-z), Number (0-9), Special characterNew PasswordConfirm PasswordRefreshUpdate Password
+Forgot PasswordEmailDate of BirthPhone NumberValidatePassword Requirements:• Minimum 8 characters• Must include: Uppercase (A-Z), Lowercase (a-z), Number (0-9), Special characterNew PasswordConfirm PasswordRefreshUpdate Password
+Forgot PasswordEmailDate of BirthPhone NumberValidatePassword Requirements:• Minimum 8 characters• Must include: Uppercase (A-Z), Lowercase (a-z), Number (0-9), Special characterNew PasswordConfirm PasswordRefreshUpdate Password
+Forgot Password
+EmailDate of BirthPhone NumberValidatePassword Requirements:• Minimum 8 characters• Must include: Uppercase (A-Z), Lowercase (a-z), Number (0-9), Special characterNew PasswordConfirm PasswordRefreshUpdate Password
+EmailDate of BirthPhone NumberValidate
 Email
 Date of Birth
-Reset
-                                Password
-Close
-OTP VerificationEnter OTPVerify OTPClose
-OTP VerificationEnter OTPVerify OTPClose
-OTP VerificationEnter OTPVerify OTPClose
-OTP Verification
-OTP Verification
-Enter OTPVerify OTP
-Enter OTP
-Verify OTP
-Close
-Reset PasswordEnter your new password.Reset Password
-Reset PasswordEnter your new password.Reset Password
-Reset PasswordEnter your new password.Reset Password
-Reset Password
-Enter your new password.
-Enter your new password.
-Reset Password
-40200Registered13301CCC Count4925Certified Students40200Registered13301CCC Count4925Certified StudentsPOPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply❮❯COURSESAll14Self Paced9NSQF1Free Course2CCC ContentSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplyO - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.ApplyO - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplyShow MoreSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyShow MoreNSQFData Science SpecialistDuration - 840 Hrs.ApplyShow MoreFREEIntroduction to PythonDuration - 2 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplyShow MoreStudent's Testimonials"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+Phone Number
+Password Requirements:• Minimum 8 characters• Must include: Uppercase (A-Z), Lowercase (a-z), Number (0-9), Special characterNew PasswordConfirm PasswordRefreshUpdate Password
+Password Requirements:• Minimum 8 characters• Must include: Uppercase (A-Z), Lowercase (a-z), Number (0-9), Special character
+New Password
+Confirm Password
+Refresh
+40226Registered13314CCC Count4925Certified Students40226Registered13314CCC Count4925Certified StudentsPOPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply❮❯COURSESAll14Self Paced9NSQF1Free Course2CCC ContentSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplyO - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.ApplyO - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplyShow MoreSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyShow MoreNSQFData Science SpecialistDuration - 840 Hrs.ApplyShow MoreFREEIntroduction to PythonDuration - 2 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplyShow MoreStudent's Testimonials"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
                                 happens because of NIELIT Chennai from where I have successfully completed Certified
                                 Embedded Software Engineer Program in online mode. It was such a wonderful
                                 opportunity to be a part of this program conducted by such great faculties, and in
@@ -135,31 +170,171 @@ Reset Password
                                 build on your knowledge, reinforce and then expand, the mentoring approach was good and
                                 working with other people via the internet was good. The instructors did a good job of
                                 communicating and making it a more intimate arrangement!"Tripti Singh×NIELIT Chennai25, ISTE ComplexGandhi Mandapam RoadChennai - 600025Email:contact [dot] nva [at] nielit [dot] gov [dot] inPhone:+91 44-2442 1445Call Centre No:+91 7598730125 [Mon–Fri, 9:00AM – 5:30PM]© 2026 NIELIT - All rights reserved
-40200Registered13301CCC Count4925Certified Students40200Registered13301CCC Count4925Certified Students
-40200Registered13301CCC Count4925Certified Students
-40200Registered
-40200Registered
-40200
+40226Registered13314CCC Count4925Certified Students40226Registered13314CCC Count4925Certified Students
+40226Registered13314CCC Count4925Certified Students
+40226Registered
+40226Registered
+40226
 Registered
-13301CCC Count
-13301CCC Count
-13301
+13314CCC Count
+13314CCC Count
+13314
 CCC Count
 4925Certified Students
 4925Certified Students
 4925
 Certified Students
-40200Registered13301CCC Count4925Certified Students
-40200Registered
+40226Registered13314CCC Count4925Certified Students
+40226Registered
 Registered
-13301CCC Count
+13314CCC Count
 CCC Count
 4925Certified Students
 Certified Students
-POPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply❮❯
-POPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply❮❯
+POPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply❮❯
+POPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply❮❯
 POPULAR COURSES
-30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply
+30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply
+30.HrsCertificate Course in Structured Query Language using MySQLApply
+30.Hrs
+Certificate Course in Structured Query Language using MySQLApply
+Apply
+Apply
+30.HrsCertificate Course in Front-End Development (Self-Paced)Apply
+30.Hrs
+Certificate Course in Front-End Development (Self-Paced)Apply
+Apply
+Apply
+30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply
+30.Hrs
+Certificate Course in Artificial Intelligence and Machine Learning using PythonApply
+Apply
+Apply
+2.HrsIntroduction to PythonApply
+2.Hrs
+Introduction to PythonApply
+Apply
+Apply
+120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
+120.Hrs
+O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
+Apply
+Apply
+120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
+120.Hrs
+O Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
+Apply
+Apply
+120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
+120.Hrs
+O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
+Apply
+Apply
+120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
+120.Hrs
+O Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
+Apply
+Apply
+60.HrsCertificate Course in Basic Python[Self-Paced]Apply
+60.Hrs
+Certificate Course in Basic Python[Self-Paced]Apply
+Apply
+Apply
+2.HrsIntroduction to Generative AIApply
+2.Hrs
+Introduction to Generative AIApply
+Apply
+Apply
+2.HrsIntroduction to Agentic AIApply
+2.Hrs
+Introduction to Agentic AIApply
+Apply
+Apply
+2.HrsIntroduction to IoT Data AnalystApply
+2.Hrs
+Introduction to IoT Data AnalystApply
+Apply
+Apply
+2.HrsIntroduction to NoSQLApply
+2.Hrs
+Introduction to NoSQLApply
+Apply
+Apply
+840.HrsData Science SpecialistApply
+840.Hrs
+Data Science SpecialistApply
+Apply
+Apply
+30.HrsCertificate Course in Structured Query Language using MySQLApply
+30.Hrs
+Certificate Course in Structured Query Language using MySQLApply
+Apply
+Apply
+30.HrsCertificate Course in Front-End Development (Self-Paced)Apply
+30.Hrs
+Certificate Course in Front-End Development (Self-Paced)Apply
+Apply
+Apply
+30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply
+30.Hrs
+Certificate Course in Artificial Intelligence and Machine Learning using PythonApply
+Apply
+Apply
+2.HrsIntroduction to PythonApply
+2.Hrs
+Introduction to PythonApply
+Apply
+Apply
+120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
+120.Hrs
+O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
+Apply
+Apply
+120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
+120.Hrs
+O Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
+Apply
+Apply
+120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
+120.Hrs
+O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
+Apply
+Apply
+120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
+120.Hrs
+O Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
+Apply
+Apply
+60.HrsCertificate Course in Basic Python[Self-Paced]Apply
+60.Hrs
+Certificate Course in Basic Python[Self-Paced]Apply
+Apply
+Apply
+2.HrsIntroduction to Generative AIApply
+2.Hrs
+Introduction to Generative AIApply
+Apply
+Apply
+2.HrsIntroduction to Agentic AIApply
+2.Hrs
+Introduction to Agentic AIApply
+Apply
+Apply
+2.HrsIntroduction to IoT Data AnalystApply
+2.Hrs
+Introduction to IoT Data AnalystApply
+Apply
+Apply
+2.HrsIntroduction to NoSQLApply
+2.Hrs
+Introduction to NoSQLApply
+Apply
+Apply
+840.HrsData Science SpecialistApply
+840.Hrs
+Data Science SpecialistApply
+Apply
+Apply
 30.HrsCertificate Course in Structured Query Language using MySQLApply
 30.Hrs
 Certificate Course in Structured Query Language using MySQLApply
@@ -581,8 +756,7 @@ Student's Testimonials"I am happy to say that I'm placed in Ernet India as a pro
                                 Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
                                 build on your knowledge, reinforce and then expand, the mentoring approach was good and
                                 working with other people via the internet was good. The instructors did a good job of
-                                communicating and making it a more intimate arrangement!"Tripti Singh
-Student's Testimonials"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
                                 happens because of NIELIT Chennai from where I have successfully completed Certified
                                 Embedded Software Engineer Program in online mode. It was such a wonderful
                                 opportunity to be a part of this program conducted by such great faculties, and in
@@ -636,6 +810,163 @@ Student's Testimonials"I am happy to say that I'm placed in Ernet India as a pro
                                 working with other people via the internet was good. The instructors did a good job of
                                 communicating and making it a more intimate arrangement!"Tripti Singh
 Student's Testimonials"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh
+Student's Testimonials"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
                                 happens because of NIELIT Chennai from where I have successfully completed Certified
                                 Embedded Software Engineer Program in online mode. It was such a wonderful
                                 opportunity to be a part of this program conducted by such great faculties, and in
@@ -741,6 +1072,58 @@ Student's Testimonials
                                 Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
                                 build on your knowledge, reinforce and then expand, the mentoring approach was good and
                                 working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
                                 communicating and making it a more intimate arrangement!"Tripti Singh
 "I am happy to say that I'm placed in Ernet India as a project engineer, and it
                                 happens because of NIELIT Chennai from where I have successfully completed Certified
@@ -794,7 +1177,265 @@ Student's Testimonials
                                 Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
                                 build on your knowledge, reinforce and then expand, the mentoring approach was good and
                                 working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
                                 communicating and making it a more intimate arrangement!"Tripti Singh
+"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L
+"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L
+"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"
+Ajith R L
+Ajith R L
+"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad
+"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad
+"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."
+Akash Gaikwad
+Akash Gaikwad
+"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar
+"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar
+"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."
+Gaurav Kumar
+Gaurav Kumar
+"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya
+"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya
+"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."
+Divya
+Divya
+"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh
+"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh
+"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"
+Tripti Singh
+Tripti Singh
+"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L
+"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"Ajith R L
+"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+                                happens because of NIELIT Chennai from where I have successfully completed Certified
+                                Embedded Software Engineer Program in online mode. It was such a wonderful
+                                opportunity to be a part of this program conducted by such great faculties, and in
+                                terms of online mode there is an availability of recorded session in their portal,
+                                and it's very much helpful in my presentation for interviews, and it's a completely
+                                industry related course. So we will get more confidence to face the technical
+                                interviews, Thanks to NIELIT Chennai for the great support for my successful
+                                future.!"
+Ajith R L
+Ajith R L
+"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad
+"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."Akash Gaikwad
+"NIELIT Chennai has various skill development courses, so according to
+                                my past experiences and to boost my career in the embedded domain I took the Certified
+                                Embedded Software Engineer Course. With these classes I have gained knowledge about the
+                                importance and application of electronics with software in this era. I thank each and
+                                every staff members and coordinators and the management for providing me with good
+                                support throughout the course period."
+Akash Gaikwad
+Akash Gaikwad
+"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar
+"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."Gaurav Kumar
+"I would really like to thank NIELIT Chennai, faculties for their invaluable support and
+                                guidance throughout the coursework. Their mentorship not only helped me clear the
+                                interview but also enhanced my overall professional development. I am fortunate to have
+                                had someone as knowledgeable and supportive as them by my side during this process. The
+                                knowledge, skills, and practical experience I gained during the training program were
+                                instrumental in preparing me for the challenges of the professional world. The Certified
+                                Embedded Software Engineer Course provides through knowledge in the feild of IoT and
+                                Automation. Their dedication and commitment made a significant difference in helping me
+                                secure a position which aligned with my career goals."
+Gaurav Kumar
+Gaurav Kumar
+"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya
+"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."Divya
+"I really like to thank NIELIT, faculties and all others for their
+                                constant support in successfully completing the course and getting placed as Data
+                                Analyst in one of the leading organisation."
+Divya
+Divya
+"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh
+"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"Tripti Singh
+"PG program in Data Science and Analytics had excellent content and assignments that
+                                build on your knowledge, reinforce and then expand, the mentoring approach was good and
+                                working with other people via the internet was good. The instructors did a good job of
+                                communicating and making it a more intimate arrangement!"
+Tripti Singh
+Tripti Singh
 "I am happy to say that I'm placed in Ernet India as a project engineer, and it
                                 happens because of NIELIT Chennai from where I have successfully completed Certified
                                 Embedded Software Engineer Program in online mode. It was such a wonderful
