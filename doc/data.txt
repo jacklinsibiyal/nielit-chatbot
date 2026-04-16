@@ -30,18 +30,13 @@ Loading CAPTCHA...
 Loading CAPTCHA...
 Forgot your password?
 Close
-NameEmailDate of
-                                BirthPhone No.PasswordRepeat PasswordAddressCaptchaLoading CAPTCHA...SignupAlready Registered? Login Here.Close
-NameEmailDate of
-                                BirthPhone No.PasswordRepeat PasswordAddressCaptchaLoading CAPTCHA...SignupAlready Registered? Login Here.Close
-NameEmailDate of
-                                BirthPhone No.PasswordRepeat PasswordAddressCaptchaLoading CAPTCHA...SignupAlready Registered? Login Here.Close
-NameEmailDate of
-                                BirthPhone No.PasswordRepeat PasswordAddressCaptchaLoading CAPTCHA...SignupAlready Registered? Login Here.
+NameEmailDate of BirthPhone No.PasswordRepeat PasswordAddressCaptchaLoading CAPTCHA...SignupAlready Registered? Login Here.Close
+NameEmailDate of BirthPhone No.PasswordRepeat PasswordAddressCaptchaLoading CAPTCHA...SignupAlready Registered? Login Here.Close
+NameEmailDate of BirthPhone No.PasswordRepeat PasswordAddressCaptchaLoading CAPTCHA...SignupAlready Registered? Login Here.Close
+NameEmailDate of BirthPhone No.PasswordRepeat PasswordAddressCaptchaLoading CAPTCHA...SignupAlready Registered? Login Here.
 Name
 Email
-Date of
-                                Birth
+Date of Birth
 Phone No.
 Password
 Repeat Password
@@ -66,7 +61,7 @@ Password Requirements:• Minimum 8 characters• Must include: Uppercase (A-Z),
 New Password
 Confirm Password
 Refresh
-42433Registered14261CCC Count5084Certified Students42433Registered14261CCC Count5084Certified StudentsPOPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply❮❯COURSESAll15Self Paced9NSQF2Free Course2CCC ContentSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplyO - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.ApplyO - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplyShow MoreSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyShow MoreNSQFData Science SpecialistDuration - 840 Hrs.ApplyNSQFEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreFREEIntroduction to PythonDuration - 2 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplyShow MoreStudent's Testimonials"I am happy to say that I'm placed in Ernet India as a project engineer, and it
+42520Registered14302CCC Count5084Certified Students42520Registered14302CCC Count5084Certified StudentsPOPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply❮❯COURSESAll11Self Paced9NSQF2Free Course2CCC ContentSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyO - LEVELData Science SpecialistDuration - 840 Hrs.ApplyO - LEVELEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyShow MoreNSQFData Science SpecialistDuration - 840 Hrs.ApplyNSQFEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreFREEIntroduction to PythonDuration - 2 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplyShow MoreStudent's Testimonials"I am happy to say that I'm placed in Ernet India as a project engineer, and it
                                 happens because of NIELIT Chennai from where I have successfully completed Certified
                                 Embedded Software Engineer Program in online mode. It was such a wonderful
                                 opportunity to be a part of this program conducted by such great faculties, and in
@@ -171,31 +166,31 @@ Refresh
                                 build on your knowledge, reinforce and then expand, the mentoring approach was good and
                                 working with other people via the internet was good. The instructors did a good job of
                                 communicating and making it a more intimate arrangement!"Tripti Singh×NIELIT Chennai25, ISTE ComplexGandhi Mandapam RoadChennai - 600025Email:contact [dot] nva [at] nielit [dot] gov [dot] inPhone:+91 44-2442 1445Call Centre No:+91 7598730125 [Mon–Fri, 9:00AM – 5:30PM]© 2026 NIELIT - All rights reserved
-42433Registered14261CCC Count5084Certified Students42433Registered14261CCC Count5084Certified Students
-42433Registered14261CCC Count5084Certified Students
-42433Registered
-42433Registered
-42433
+42520Registered14302CCC Count5084Certified Students42520Registered14302CCC Count5084Certified Students
+42520Registered14302CCC Count5084Certified Students
+42520Registered
+42520Registered
+42520
 Registered
-14261CCC Count
-14261CCC Count
-14261
+14302CCC Count
+14302CCC Count
+14302
 CCC Count
 5084Certified Students
 5084Certified Students
 5084
 Certified Students
-42433Registered14261CCC Count5084Certified Students
-42433Registered
+42520Registered14302CCC Count5084Certified Students
+42520Registered
 Registered
-14261CCC Count
+14302CCC Count
 CCC Count
 5084Certified Students
 Certified Students
-POPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply❮❯
-POPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply❮❯
+POPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply❮❯
+POPULAR COURSES30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply❮❯
 POPULAR COURSES
-30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply
+30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply30.HrsCertificate Course in Structured Query Language using MySQLApply30.HrsCertificate Course in Front-End Development (Self-Paced)Apply30.HrsCertificate Course in Artificial Intelligence and Machine Learning using PythonApply2.HrsIntroduction to PythonApply60.HrsCertificate Course in Basic Python[Self-Paced]Apply2.HrsIntroduction to Generative AIApply2.HrsIntroduction to Agentic AIApply2.HrsIntroduction to IoT Data AnalystApply2.HrsIntroduction to NoSQLApply840.HrsData Science SpecialistApply600.HrsEmbedded and SoC DesignerApply
 30.HrsCertificate Course in Structured Query Language using MySQLApply
 30.Hrs
 Certificate Course in Structured Query Language using MySQLApply
@@ -214,26 +209,6 @@ Apply
 2.HrsIntroduction to PythonApply
 2.Hrs
 Introduction to PythonApply
-Apply
-Apply
-120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
-120.Hrs
-O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
-Apply
-Apply
-120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
-120.Hrs
-O Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
-Apply
-Apply
-120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
-120.Hrs
-O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
-Apply
-Apply
-120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
-120.Hrs
-O Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
 Apply
 Apply
 60.HrsCertificate Course in Basic Python[Self-Paced]Apply
@@ -291,26 +266,6 @@ Apply
 Introduction to PythonApply
 Apply
 Apply
-120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
-120.Hrs
-O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
-Apply
-Apply
-120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
-120.Hrs
-O Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
-Apply
-Apply
-120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
-120.Hrs
-O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
-Apply
-Apply
-120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
-120.Hrs
-O Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
-Apply
-Apply
 60.HrsCertificate Course in Basic Python[Self-Paced]Apply
 60.Hrs
 Certificate Course in Basic Python[Self-Paced]Apply
@@ -366,26 +321,6 @@ Apply
 Introduction to PythonApply
 Apply
 Apply
-120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
-120.Hrs
-O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
-Apply
-Apply
-120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
-120.Hrs
-O Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
-Apply
-Apply
-120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
-120.Hrs
-O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
-Apply
-Apply
-120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
-120.Hrs
-O Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
-Apply
-Apply
 60.HrsCertificate Course in Basic Python[Self-Paced]Apply
 60.Hrs
 Certificate Course in Basic Python[Self-Paced]Apply
@@ -439,26 +374,6 @@ Apply
 2.HrsIntroduction to PythonApply
 2.Hrs
 Introduction to PythonApply
-Apply
-Apply
-120.HrsO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
-120.Hrs
-O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Apply
-Apply
-Apply
-120.HrsO Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
-120.Hrs
-O Level-M2-(Web Designing and Publishing)-(Self Paced)Apply
-Apply
-Apply
-120.HrsO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
-120.Hrs
-O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Apply
-Apply
-Apply
-120.HrsO Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
-120.Hrs
-O Level- M4-(Internet of Things and its Applications)-(Self Paced)Apply
 Apply
 Apply
 60.HrsCertificate Course in Basic Python[Self-Paced]Apply
@@ -498,9 +413,9 @@ Apply
 Apply
 COURSES
 COURSES
-All15Self Paced9NSQF2Free Course2CCC Content
-All15
-15
+All11Self Paced9NSQF2Free Course2CCC Content
+All11
+11
 Self Paced9
 9
 NSQF2
@@ -509,11 +424,11 @@ Free Course2
 2
 CCC Content
 CCC Content
-SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplyO - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.ApplyO - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplyShow MoreSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyShow MoreNSQFData Science SpecialistDuration - 840 Hrs.ApplyNSQFEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreFREEIntroduction to PythonDuration - 2 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplyShow More
-SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplyO - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.ApplyO - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplyShow MoreSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyShow MoreNSQFData Science SpecialistDuration - 840 Hrs.ApplyNSQFEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreFREEIntroduction to PythonDuration - 2 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplyShow More
-SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplyO - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.ApplyO - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplyShow More
-SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplyO - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.ApplyO - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.Apply
-SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplyO - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.ApplyO - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.ApplyO - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.Apply
+SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyO - LEVELData Science SpecialistDuration - 840 Hrs.ApplyO - LEVELEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyShow MoreNSQFData Science SpecialistDuration - 840 Hrs.ApplyNSQFEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreFREEIntroduction to PythonDuration - 2 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplyShow More
+SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyO - LEVELData Science SpecialistDuration - 840 Hrs.ApplyO - LEVELEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreSELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyShow MoreNSQFData Science SpecialistDuration - 840 Hrs.ApplyNSQFEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow MoreFREEIntroduction to PythonDuration - 2 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplyShow More
+SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyO - LEVELData Science SpecialistDuration - 840 Hrs.ApplyO - LEVELEmbedded and SoC DesignerDuration - 600 Hrs.ApplyShow More
+SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyO - LEVELData Science SpecialistDuration - 840 Hrs.ApplyO - LEVELEmbedded and SoC DesignerDuration - 600 Hrs.Apply
+SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.ApplySELF PACEDCertificate Course in Front-End Development (Self-Paced)Duration - 30 Hrs.ApplySELF PACEDCertificate Course in Artificial Intelligence and Machine Learning using PythonDuration - 30 Hrs.ApplyFREEIntroduction to PythonDuration - 2 Hrs.ApplySELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.ApplyFREEIntroduction to Generative AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to Agentic AIDuration - 2 Hrs.ApplySELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.ApplySELF PACEDIntroduction to NoSQLDuration - 2 Hrs.ApplyO - LEVELData Science SpecialistDuration - 840 Hrs.ApplyO - LEVELEmbedded and SoC DesignerDuration - 600 Hrs.Apply
 SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.Apply
 SELF PACEDCertificate Course in Structured Query Language using MySQLDuration - 30 Hrs.Apply
 SELF PACED
@@ -546,38 +461,6 @@ Duration - 2 Hrs.
 Apply
 Apply
 Apply
-O - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.Apply
-O - LEVELO level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.Apply
-O - LEVEL
-O level- Module-01 (M1-R5.1 Information Technology Tools and Network Basics)Duration - 120 Hrs.Apply
-Duration - 120 Hrs.
-Apply
-Apply
-Apply
-O - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.Apply
-O - LEVELO Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.Apply
-O - LEVEL
-O Level-M2-(Web Designing and Publishing)-(Self Paced)Duration - 120 Hrs.Apply
-Duration - 120 Hrs.
-Apply
-Apply
-Apply
-O - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.Apply
-O - LEVELO Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.Apply
-O - LEVEL
-O Level- M3-(Programming and Problem Solving through Python Language)-(Self Paced)Duration - 120 Hrs.Apply
-Duration - 120 Hrs.
-Apply
-Apply
-Apply
-O - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.Apply
-O - LEVELO Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.Apply
-O - LEVEL
-O Level- M4-(Internet of Things and its Applications)-(Self Paced)Duration - 120 Hrs.Apply
-Duration - 120 Hrs.
-Apply
-Apply
-Apply
 SELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.Apply
 SELF PACEDCertificate Course in Basic Python[Self-Paced]Duration - 60 Hrs.Apply
 SELF PACED
@@ -607,6 +490,30 @@ SELF PACEDIntroduction to IoT Data AnalystDuration - 2 Hrs.Apply
 SELF PACED
 Introduction to IoT Data AnalystDuration - 2 Hrs.Apply
 Duration - 2 Hrs.
+Apply
+Apply
+Apply
+SELF PACEDIntroduction to NoSQLDuration - 2 Hrs.Apply
+SELF PACEDIntroduction to NoSQLDuration - 2 Hrs.Apply
+SELF PACED
+Introduction to NoSQLDuration - 2 Hrs.Apply
+Duration - 2 Hrs.
+Apply
+Apply
+Apply
+O - LEVELData Science SpecialistDuration - 840 Hrs.Apply
+O - LEVELData Science SpecialistDuration - 840 Hrs.Apply
+O - LEVEL
+Data Science SpecialistDuration - 840 Hrs.Apply
+Duration - 840 Hrs.
+Apply
+Apply
+Apply
+O - LEVELEmbedded and SoC DesignerDuration - 600 Hrs.Apply
+O - LEVELEmbedded and SoC DesignerDuration - 600 Hrs.Apply
+O - LEVEL
+Embedded and SoC DesignerDuration - 600 Hrs.Apply
+Duration - 600 Hrs.
 Apply
 Apply
 Apply
